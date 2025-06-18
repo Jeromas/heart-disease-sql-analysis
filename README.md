@@ -65,11 +65,17 @@ It uses the UCI Heart Disease (Cleveland) dataset to reveal patient-level patter
 
 ## 🔗 Author & Links
 
+## 🔗 Author
+
 **Alphonso J. Saiewane**  
-📌 [GitHub Portfolio](https://github.com/Jeromas)  
-📰 [Substack Article (Coming Soon)](https://your-substack-link-here)
+*Data Scientist | SQL, Python, and R Enthusiast | Trade Policy-Focused Expert | Generative AI Engineer*
+
+📧 **Email**: [alphonso.saiewane@gmail.com](mailto:alphonso.saiewane@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/alphonso-jeromas-saiewane-811b2b24b](https://www.linkedin.com/in/alphonso-jeromas-saiewane-811b2b24b)  
+🌐 **GitHub**: [github.com/Jeromas](https://github.com/Jeromas)  
+📝 **Substack**: [alphonsojeromassaiewane.substack.com](https://alphonsojeromassaiewane.substack.com)
+
 
 ---
 
-## 🪪 License
-This project is licensed under the [MIT License](LICENSE).
+
