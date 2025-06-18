@@ -65,10 +65,8 @@ It uses the UCI Heart Disease (Cleveland) dataset to reveal patient-level patter
 
 ## 🔗 Author & Links
 
-## 🔗 Author
-
 **Alphonso J. Saiewane**  
-*Data Scientist | SQL, Python, and R Enthusiast | Trade Policy-Focused Expert | Generative AI Engineer*
+*Data Scientist | SQL, Python, and R Enthusiast | Trade Policy-Focused Expert | Generative AI Prompt Engineer*
 
 📧 **Email**: [alphonso.saiewane@gmail.com](mailto:alphonso.saiewane@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/alphonso-jeromas-saiewane-811b2b24b](https://www.linkedin.com/in/alphonso-jeromas-saiewane-811b2b24b)  
