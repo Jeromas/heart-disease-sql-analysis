@@ -1,4 +1,6 @@
-# 🫀 heart-disease-sql-analysis
+![Heart Disease SQL Analysis](https://github.com/Jeromas/heart-disease-sql-analysis/raw/main/imge1.png)
+
+#  heart-disease-sql-analysis
 
 A data-driven exploration of cardiovascular risk using SQL queries and embedded SQLite in Google Colab.
 
