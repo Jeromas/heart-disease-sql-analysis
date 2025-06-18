@@ -64,7 +64,14 @@ It uses the UCI Heart Disease (Cleveland) dataset to reveal patient-level patter
 - Extend to other medical datasets
 
 ---
+### 📄 Report & Interactive Notebook
 
+- **📘 PDF Report**: [Download the full report](https://github.com/Jeromas/heart-disease-sql-analysis/raw/main/Analyzing_Heart_Disease.pdf)
+
+- **🧪 Run in Google Colab**:  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jeromas/heart-disease-sql-analysis/blob/main/Analyzing_Heart_Disease_Data_SQL_Colab.ipynb)
+
+---
 ## 🔗 Author & Links
 
 **Alphonso J. Saiewane**  
